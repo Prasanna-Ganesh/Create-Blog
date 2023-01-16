@@ -1,9 +1,9 @@
 # Create-Blog
 
-##Blogging Website using HTML, CSS and JS.
+## Blogging Website using HTML, CSS and JS.
 This project is a mini version of a working blogging website. This project is done by using HTML, CSS and JS. This is a node.js app. And using firebase as its database. Features of this Site :-
 
-##Dynamic Blog pages.
+## Dynamic Blog pages.
 Have a dedicated editor for blogs.
 You can add/make as many blogs you want.
 You can add Headings, paragraphs, and Images to the blog post.
@@ -14,7 +14,7 @@ Once you forked this repo. Make sure to run npm install command inside the folde
 
 After installing packages, You must go to your firbase console and make a project. Copy project credentials and paste it into "firebase.js" file. Otherwise you'll not able to access database.
 
-##Fetched API
+## Fetched API
 fetched posts from 'https://jsonplaceholder.typicode.com/posts'
 
 
